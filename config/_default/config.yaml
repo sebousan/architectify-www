@@ -1,0 +1,13 @@
+## LANGUAGE
+defaultContentLanguage: fr
+languageCode: fr
+
+## ADVANCED
+paginate: 18
+enableRobotsTXT: true
+markup:
+  tableOfContents:
+    ordered: true
+build:
+  writeStats: true
+

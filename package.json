@@ -1,0 +1,25 @@
+{
+  "name": "architectify",
+  "version": "1.0.0",
+  "repository": "https://github.com/sebousan/architectify-www",
+  "author": {
+    "name": "Sébastien Moulène",
+    "url": "https://www.sebastienmoulene.com/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.13",
+    "cssnano": "^5.1.14",
+    "netlify-plugin-hugo-cache-resources": "^0.2.1",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "postcss-sass": "^0.5.0"
+  },
+  "scripts": {
+      "watch": "hugo server",
+      "build": "hugo --gc --minify",
+      "update": "hugo mod get -u",
+      "cms": "npx netlify-cms-proxy-server"
+  }
+}

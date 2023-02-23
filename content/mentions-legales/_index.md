@@ -9,19 +9,19 @@ hero:
 image:
   src: /images/uploads/illu-curiosity.svg
 ---
-*Date de dernière mise à jour : décembre 2022*
+*Date de dernière mise à jour : février 2023*
 
-## Bienvenue sur le site architectify.fr
+## Bienvenue sur le site architectify.io
 
 En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions ci-dessous et vous vous engagez à les respecter. Les mentions légales indiquées ci-dessous peuvent être amenées à évoluer, nous vous invitons à les consulter régulièrement.
 
 ## Responsable de publication
 
-Le site architectify.fr est la propriété de {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
+Le site architectify.io est la propriété de {{< blank_link link="https://www.uncinq.dev" text="Un Cinq" >}}.
 
 ## Hébergement
 
-Le site architectify.fr est hébergé par :
+Le site architectify.io est hébergé par :
 
 **Netlify** \
 2325 3rd Street, Suite 296, \
@@ -34,7 +34,7 @@ Etats-Unis.
 
 ## Conception
 
-Ce site web a été conçu avec {{< blank_link link="https://www.hugolify.com" text="Hugolify" >}}, une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.
+Ce site web a été conçu avec {{< blank_link link="https://www.hugolify.io" text="Hugolify" >}}, une solution Jamstack open-source, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.
 
 ## Crédits
 

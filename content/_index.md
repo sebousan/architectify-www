@@ -1,12 +1,10 @@
 ---
 isIndex: true
 title: Accueil
-image:
-  src: /images/uploads/195.Collaboration.svg
 hero:
   title: Créez le site web de votre cabinet d’architectes sécurisé, rapide et accessible à tous.
   image:
-    src: /images/uploads/195.Collaboration.svg
+    src: /images/uploads/205.OK.svg
   cta:
     url: /les-avantages
     text: Découvir les avantages
@@ -40,4 +38,16 @@ blocks:
       Le passage d’un CMS commun à notre outil dédié aux architectes.
     image:
       src: /images/uploads/152.Study-Group.svg
+  - type: pushes
+    column: 1
+    items:
+      - title: Le site de démonstration
+        text: Découvrez tous les blocs en situations avec différents types de contenus comme les cabinets, les projets…
+        offset: center
+        background_color: "#092036"
+        color: "#FFFFFF"
+        cta:
+          blank: true
+          text: Découvrir la démo
+          url: https://demo.architectify.io
 ---

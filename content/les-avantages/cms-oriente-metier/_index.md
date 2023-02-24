@@ -1,10 +1,9 @@
 ---
 isPage: true
-draft: false
+draft: true
 title: CMS orienté métier
 description: Grâce à son espace administration dédié aux cabinets d’architectes, la
-  mise à jour de contenu est grandement facilité. Que vous aillez des associés,
-  collaborateurs, juristes…
+  mise à jour de contenu est grandement facilité. Présentez vos projets ainsi que vos publications…
 image:
   src: /images/uploads/123.Website-builder.svg
 hero:
@@ -12,8 +11,7 @@ hero:
   image:
     src: /images/uploads/123.Website-builder.svg
   text: Grâce à son espace administration dédié aux cabinets d’architectes, la mise à
-    jour de contenu est grandement facilité. Que vous aillez des associés,
-    collaborateurs, juristes…
+    jour de contenu est grandement facilité. Présentez vos projets ainsi que vos publications…
 ---
 
 ## Espace admin

@@ -14,8 +14,8 @@ blocks:
     title: Par email
     cta:
       blank: true
-      url: mailto:contact@architectify.fr
-      text: contact@architectify.fr
+      url: mailto:architectify@uncinq.dev
+      text: architectify@uncinq.dev
     background: false
   - type: embed
     background: false

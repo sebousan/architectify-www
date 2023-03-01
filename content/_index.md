@@ -45,7 +45,7 @@ blocks:
         text: Découvrez tous les blocs en situations avec différents types de contenus comme les cabinets, les projets…
         offset: center
         background_color: "#092036"
-        color: "#FFFFFF"
+        color: "#f6dfc9"
         cta:
           blank: true
           text: Découvrir la démo

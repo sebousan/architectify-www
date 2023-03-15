@@ -107,7 +107,7 @@ blocks:
       - title: Performance
         limit: 100
         suffix: "%"
-        value: 97
+        value: 98
       - title: Accessibilité
         value: 100
         suffix: "%"

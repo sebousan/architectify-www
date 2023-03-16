@@ -5,13 +5,18 @@ title: Actualité et parutions
 image:
   src: /images/uploads/144.Paperboy.svg
 hero: 
-  title: L’actualité du cabinet
+  title: Actualité et parutions presse
+  text: L’actualité de votre cabinet sous la forme d’un blog ou simplement une liste de publications qui renvoit vers les sites web source.
   image:
     src: /images/uploads/144.Paperboy.svg
 ---
 
-## Création d’article 
-Donec diam orci, mattis et elit non, pulvinar venenatis neque. Pellentesque vulputate nulla fermentum libero aliquam, ut gravida nisi pellentesque. Phasellus elementum sem id libero hendrerit feugiat. Sed ornare sed nunc non suscipit. Proin eros ipsum, ornare non suscipit non, viverra nec nunc. Quisque felis erat, faucibus a velit nec, hendrerit vestibulum nibh. Donec neque diam, cursus id facilisis nec, hendrerit quis justo.
+## Actualité
+La solution vous permet de créer des articles sous la forme d’un blog. Ces articles peuvent être accomplagnés de tags et/ou de catégories pour faciliter leurs accès auprès de l’internaute.
+
+{{< figure src="/images/uploads/admin-posts.png" legend="Dashboard de l’actualité" >}}
 
 ## Revue de presse 
-Donec diam orci, mattis et elit non, pulvinar venenatis neque. Pellentesque vulputate nulla fermentum libero aliquam, ut gravida nisi pellentesque. Phasellus elementum sem id libero hendrerit feugiat. Sed ornare sed nunc non suscipit. Proin eros ipsum, ornare non suscipit non, viverra nec nunc. Quisque felis erat, faucibus a velit nec, hendrerit vestibulum nibh. Donec neque diam, cursus id facilisis nec, hendrerit quis justo.
+Il est très facile d’ajouter des parutions presse ou liens vers un article en ligne.
+
+{{< figure src="/images/uploads/admin-publications.png" legend="Dashboard des parutions" >}}

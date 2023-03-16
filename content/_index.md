@@ -25,12 +25,18 @@ blocks:
   - type: editorial
     direction: ltr
     title: Les fonctionnalités
-    text: Création du ou des cabinets, du portfolio, des actualités…
+    text: Grâce à un espace admin simplifié et clair, vous aurez la possibilité de créer un ou plusieurs cabinets, un portfolio, des articles d’actualités, des parutions presse…
     cta:
       text: En savoir plus sur les fonctionnalités
       url: /les-fonctionnalites/
     image:
       src: /images/uploads/147.Multitasking.svg
+  - type: figure
+    grid: medium
+    offset: center
+    figure:
+      src: /images/uploads/admin-home.png
+      legend: Espace admin orienté métier
   - type: editorial
     direction: rtl
     title: Les études de cas

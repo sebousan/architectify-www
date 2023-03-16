@@ -44,9 +44,9 @@ blocks:
     text: L’actualité de votre cabinet sous la forme d’un blog ou simplement une liste de publications qui renvoit vers les sites web source.
     image:
       src: /images/uploads/144.Paperboy.svg
-    # cta:
-    #   text: En savoir plus
-    #   url: /les-fonctionnalites/actualite
+    cta:
+      text: En savoir plus
+      url: /les-fonctionnalites/actualite-parutions
   - type: editorial
     direction: rtl
     title: Et bien d’autres fonctionnalités à venir

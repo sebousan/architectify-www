@@ -1,15 +1,15 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2023-01-02T19:34:08.410Z
 title: T design
 image:
-  src: /images/uploads/logo-tdesign.svg
+  src: /images/uploads/tdesign-logo.svg
 hero:
   surtitle: Étude de cas
   title: T design, Migration d’un site PHP (non open-source) vers Architectify
   image:
-    src: /images/uploads/logo-tdesign.svg
+    src: /images/uploads/tdesign-logo.svg
 blocks:
   - type: paragraph
     title: Quelques mots sur le cabinet
@@ -88,7 +88,7 @@ blocks:
       - src: ""
         legend: Admin de l’ancien site
         half: true
-      - src: ""
+      - src: /images/uploads/tdesign-screenshot-admin.png
         legend: Admin Architectify dédié au cabinet
         half: true
   - type: quote

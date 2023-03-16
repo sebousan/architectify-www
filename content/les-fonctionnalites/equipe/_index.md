@@ -2,24 +2,23 @@
 isPage: true
 draft: false
 title: Présentation de l’équipe
-description: Présentation des architectes, collaborateurs…
+description: Présentation des architectes ou d’autres personnes…
 image:
   src: /images/uploads/183.Teaming-Up.svg
 hero: 
   title: Présentation de l’équipe
-  text: Présentation des architectes, collaborateurs…
+  text: Présentation des architectes ou d’autres personnes…
   image:
     src: /images/uploads/183.Teaming-Up.svg
 ---
+La solution vous permet de créer différent profil de personne.
 
-## Création d’ une personne
-Donec diam orci, mattis et elit non, pulvinar venenatis neque. Pellentesque vulputate nulla fermentum libero aliquam, ut gravida nisi pellentesque. Phasellus elementum sem id libero hendrerit feugiat. Sed ornare sed nunc non suscipit. Proin eros ipsum, ornare non suscipit non, viverra nec nunc. Quisque felis erat, faucibus a velit nec, hendrerit vestibulum nibh. Donec neque diam, cursus id facilisis nec, hendrerit quis justo.
+## Liste des personnnes
 
-## Choix du statut dans le cabinet 
-Donec diam orci, mattis et elit non, pulvinar venenatis neque. Pellentesque vulputate nulla fermentum libero aliquam, ut gravida nisi pellentesque. Phasellus elementum sem id libero hendrerit feugiat. Sed ornare sed nunc non suscipit. Proin eros ipsum, ornare non suscipit non, viverra nec nunc. Quisque felis erat, faucibus a velit nec, hendrerit vestibulum nibh. Donec neque diam, cursus id facilisis nec, hendrerit quis justo.
+{{< figure src="/images/uploads/admin-persons.png" legend="Espace admin : liste des personnes" >}}
+{{< figure src="/images/uploads/front-persons.png" legend="Exemple de page des personnes" >}}
 
-## Choix de ou des expertises métiers
-Proin eros ipsum, ornare non suscipit non, viverra nec nunc. Quisque felis erat, faucibus a velit nec, hendrerit vestibulum nibh. Donec neque diam, cursus id facilisis nec, hendrerit quis justo.
+## Une personne
 
-## Ajout de ses contacts et liens webs
-Proin eros ipsum, ornare non suscipit non, viverra nec nunc. Quisque felis erat, faucibus a velit nec, hendrerit vestibulum nibh. Donec neque diam, cursus id facilisis nec, hendrerit quis justo.
+{{< figure src="/images/uploads/admin-person.png" legend="Espace admin : édition d’une personne" >}}
+{{< figure src="/images/uploads/front-person.png" legend="Exemple de page d’une personne" >}}

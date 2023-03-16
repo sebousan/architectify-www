@@ -18,14 +18,12 @@ blocks:
     title: Un CMS orienté métier
     text: >-
       Grâce à son espace administration dédié aux cabinets d’architectes, la mise à
-      jour de contenu est grandement facilité.
-
-      Présentez vos projets ainsi que vos publications…
+      jour de contenu est grandement facilité…
     image:
       src: /images/uploads/123.Website-builder.svg
-    # cta:
-    #   url: /les-avantages/cms-oriente-metier/
-    #   text: En savoir plus sur le CMS
+    cta:
+      url: /les-avantages/cms-oriente-metier/
+      text: En savoir plus sur le CMS
   - type: editorial
     direction: ltr
     title: Performance optimale grâce à un site web éco-conçu

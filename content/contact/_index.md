@@ -29,7 +29,7 @@ blocks:
         elementOrSelector:"#my-cal-inline",
         calLink: "sebousan/architectify"
       });
-      Cal("ui", {"theme":"light","styles":{"branding":{"brandColor":"#060c84"}}});
+      Cal("ui", {"theme":"light","styles":{"branding":{"brandColor":"#092036"}}});
       </script>
       <!-- Cal inline embed code ends -->
     title: Ou prendre rendez-vous en ligne ?

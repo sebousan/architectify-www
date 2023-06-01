@@ -11,7 +11,8 @@ hero:
     src: /images/uploads/153.Mention.svg
 blocks:
   - type: cta
-    title: Par email
+    heading:
+      title: Par email
     cta:
       blank: true
       url: mailto:architectify@uncinq.dev
@@ -32,5 +33,6 @@ blocks:
       Cal("ui", {"theme":"light","styles":{"branding":{"brandColor":"#092036"}}});
       </script>
       <!-- Cal inline embed code ends -->
-    title: Ou prendre rendez-vous en ligne ?
+    heading:
+      title: Ou prendre rendez-vous en ligne ?
 ---

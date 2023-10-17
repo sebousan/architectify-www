@@ -64,6 +64,7 @@
       "hero",
       "hero-content",
       "hero-media",
+      "hero-with-image",
       "home-page",
       "hugolify",
       "icon",
@@ -80,6 +81,7 @@
       "items",
       "items-1",
       "items-4",
+      "linkedin",
       "logo",
       "media",
       "media-icon",
@@ -88,6 +90,7 @@
       "nav-accessibility",
       "nav-legal",
       "nav-primary",
+      "nav-social",
       "offcanvas",
       "offset-md-2",
       "push",
@@ -101,7 +104,8 @@
       "section-sitemap",
       "text",
       "title",
-      "toc"
+      "toc",
+      "twitter"
     ],
     "ids": [
       "TableOfContents",

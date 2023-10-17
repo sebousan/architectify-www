@@ -1,21 +1,25 @@
 ---
 isIndex: true
 title: Accueil
+image:
+  src: /images/uploads/205.OK.svg
 hero:
   title: Créez le site web de votre cabinet d’architectes sécurisé, rapide et accessible à tous.
   image:
     src: /images/uploads/205.OK.svg
+  image_2:
+    src: /images/uploads/website.png
   cta:
-    url: /les-avantages
+    url: /les-avantages/
     text: Découvir les avantages
   cta_second:
     text: Découvrir les foncionnalités
-    url: /les-fonctionnalites
+    url: /les-fonctionnalites/
 blocks:
   - type: editorial
     direction: rtl
     title: Les avantages
-    text: "Ils sont multiples : CMS orienté métier, sécurité maximale, site web
+    text: "Ils sont multiples : CMS (système de gestion de contenu) orienté métier, sécurité maximale, site web
       performant, rapide, éco-conçu et accessible à tous."
     cta:
       text: En savoir plus sur les avantages
@@ -64,13 +68,24 @@ blocks:
     grid: medium
     offset: center
     heading:
-      title: Un espace admin web orienté métier
-      text: Et parfaitement personnalisable sur mesure.
+      title: Un espace de gestion de contenu orienté métier
+      text: Configuration sur mesure.
     figure:
       src: /images/uploads/admin-home.png
-      legend: Page d’accueil de l’admin Architectify, permettant la mise à jour de votre site web
+      legend: Page d’accueil de l’espace de gestion de contenu, permettant la mise à jour de votre site Web.
+
   - type: editorial
     direction: rtl
+    title: Le site exemple
+    text: Naviguez sur notre site de démonstration pour décourvir les différents types de contenus.
+    cta:
+      text: Décourvir le site exemple
+      url: https://demo.architectify.io
+      blank: true
+    image:
+      src: /images/uploads/160.Movie-Time.svg
+  - type: editorial
+    direction: ltr
     title: Les études de cas
     text: Découvrez bientôt nos expériences sur les migrations de site web de nos clients.
       Le passage d’un CMS commun à notre outil dédié aux architectes.
@@ -79,13 +94,12 @@ blocks:
   - type: pushes
     column: 1
     items:
-      - title: Le site de démonstration
-        text: Découvrez tous les blocs en situations avec différents types de contenus comme les cabinets, les projets…
+      - title: Prenez contact avec nous
+        text: N’hésitez pas à nous contacter pour parler de votre projet ou planifier une démonstration de la solution.
         offset: center
         background_color: "#092036"
-        color: "#f6dfc9"
+        color: "#fff"
         cta:
-          blank: true
-          text: Découvrir la démo
-          url: https://demo.architectify.io
+          text: Contactez-nous
+          url: /contact/
 ---

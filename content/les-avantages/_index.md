@@ -17,8 +17,7 @@ blocks:
     direction: rtl
     title: Un CMS orienté métier
     text: >-
-      Grâce à son espace administration dédié aux cabinets d’architectes, la mise à
-      jour de contenu est grandement facilité…
+      Grâce à son espace administration dédié aux cabinets d’architectes, la mise à jour de contenu est facilité.
     image:
       src: /images/uploads/123.Website-builder.svg
     cta:
@@ -32,7 +31,7 @@ blocks:
       performant et ultra rapide.
     cta:
       text: En savoir plus sur l’éco-conception
-      url: /les-avantages/eco-conception
+      url: /les-avantages/eco-conception/
     image:
       src: /images/uploads/179.Planet.svg
   - type: editorial
@@ -45,37 +44,35 @@ blocks:
       src: /images/uploads/37.Password.svg
     cta:
       text: En savoir plus sur la sécurité
-      url: /les-avantages/securite-maximale
+      url: /les-avantages/securite-maximale/
   - type: editorial
     direction: ltr
     title: Accessible à tous
     text: L’accessibilité numérique consiste à rendre les services en ligne
       accessibles aux personnes en situation de handicap. La direction
       interministérielle du numérique (DINUM) édite le référentiel général
-      d’amélioration de l’accessibilité (RGAA) ce à quoi Architectify respecte au
-      plus près.
+      d’amélioration de l’accessibilité (RGAA).
     cta:
       text: En savoir plus sur l’accessibilité
-      url: /les-avantages/accessible-a-tous
+      url: /les-avantages/accessible-a-tous/
     image:
       src: /images/uploads/150.Cubes.svg
   - type: editorial
     direction: rtl
     title: Référencement soigné
-    text: Le fait de concevoir un site bas carbone profite au référencement, Google
-      mettra plus en avant un site bien conçu et rapide qu’un site lourd.
+    text: La conception d’un site Web bas carbone profite au référencement. Google favorise un site Web bien conçu et rapide.
     image:
       src: /images/uploads/190.Not-Found.svg
     cta:
       text: En savoir plus sur le référencement
-      url: /les-avantages/referencement-soigne
+      url: /les-avantages/referencement-soigne/
   - type: editorial
     direction: ltr
     title: Infrastructure open-source
-    text: Voici en détail et en toute transparence, l'infrastructure technique de Architectify.
+    text: Découvrez l’infrastructure technique de Architectify.
     cta:
       text: En savoir plus sur l’infrastructure
-      url: /les-avantages/infrastructure
+      url: /les-avantages/infrastructure/
     image:
       src: /images/uploads/181.Nodes.svg
 ---

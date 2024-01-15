@@ -36,4 +36,4 @@ Un site précompilé charge plus rapidement, est plus adapté à une forte afflu
 
 
 ## Conclusion
-En somme, l'éco-conception d'un site web présente de nombreux avantages, tant en termes de performance, de coûts, d'impact environnemental, de visibilité sur les moteurs de recherche et même en termes d'image de marque pour les ent
+En somme, l’éco-conception d’un site Web présente de nombreux avantages, tant en termes de performance, de coûts, d’impact environnemental, de visibilité sur les moteurs de recherche et même en termes d’image de marque.

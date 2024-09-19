@@ -5,3 +5,4 @@ links:
     url: /les-fonctionnalites
   - title: Contact
     url: /contact
+    is_highlighted: true

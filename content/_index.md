@@ -97,16 +97,6 @@ blocks:
     image:
       src: /images/uploads/160.Movie-Time.svg
 
-  - type: editorial
-    direction: ltr
-    surtitle: Avant/après
-    title: Les études de cas
-    text:
-      Découvrez bientôt nos expériences sur les migrations de site web de nos clients.
-      Le passage d’un CMS commun à notre outil dédié aux architectes.
-    image:
-      src: /images/uploads/152.Study-Group.svg
-
   - type: cta
     background: true
     heading:

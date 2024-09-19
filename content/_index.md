@@ -9,12 +9,11 @@ hero:
     src: /images/uploads/205.OK.svg
   image_2:
     src: /images/uploads/website.png
-  cta:
-    text: Découvrir les foncionnalités
-    url: /les-fonctionnalites/
-  cta_second:
-    url: /les-avantages/
-    text: Découvir les avantages
+  ctas:
+    - url: /les-fonctionnalites/
+      text: Découvrir les foncionnalités
+    - url: /les-avantages/
+      text: Découvir les avantages
 blocks:
   - type: informations
     column: 4

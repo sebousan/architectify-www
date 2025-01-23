@@ -1,8 +1,40 @@
 links:
-  - title: Avantages
-    url: /les-avantages/
   - title: Fonctionnalités
     url: /les-fonctionnalites/
+    links:
+      - title: Cabinet
+        text: Présentation du cabinet ou des cabinet
+        url: /les-fonctionnalites/cabinet/
+      - title: L’équipe
+        text: Toutes les personnes qui composent votre cabinet
+        url: /les-fonctionnalites/equipe/
+      - title: Expertises
+        text: Présentez en détail vos projets
+        url: /les-fonctionnalites/projets/
+      - title: Actualité
+        text: Mettez en avant l’actualité et les parutions
+        url: /les-fonctionnalites/actualite-parutions/
+  - title: Avantages
+    url: /les-avantages/
+    links:
+      - title: CMS orienté métier
+        text: L’éditeur de contenu ultra simple
+        url: /les-avantages/cms-oriente-metier/
+      - title: Performance optimale
+        text: Grâce à un site Web éco-conçu !
+        url: /les-avantages/eco-conception/
+      - title: Sécurité maximale
+        text: Pas de piratage possible
+        url: /les-avantages/securite-maximale/
+      - title: Accessible à tous
+        text: Même aux personnes en situation de handicap
+        url: /les-avantages/accessible-a-tous/
+      - title: Référencement soigné
+        text: Google favorise un site Web bien conçu
+        url: /les-avantages/referencement-soigne/
+      - title: Infrastructure moderne
+        text: Découvrez l’infrastructure technique
+        url: /les-avantages/infrastructure/
   - title: Contact
     url: /contact/
   - title: Tarifs

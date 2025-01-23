@@ -5,15 +5,15 @@ links:
       - title: Cabinet
         text: Présentation du cabinet ou des cabinet
         url: /les-fonctionnalites/cabinet/
-      - title: L’équipe
-        text: Toutes les personnes qui composent votre cabinet
-        url: /les-fonctionnalites/equipe/
-      - title: Expertises
+      - title: Portfolio
         text: Présentez en détail vos projets
         url: /les-fonctionnalites/projets/
       - title: Actualité
         text: Mettez en avant l’actualité et les parutions
         url: /les-fonctionnalites/actualite-parutions/
+      - title: L’équipe
+        text: Toutes les personnes qui composent votre cabinet
+        url: /les-fonctionnalites/equipe/
   - title: Avantages
     url: /les-avantages/
     links:

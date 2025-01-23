@@ -70,6 +70,9 @@
       "content-body",
       "cta",
       "description",
+      "dropdown",
+      "dropdown-menu",
+      "dropdown-toggle",
       "embed",
       "gauge",
       "grid",
@@ -139,7 +142,8 @@
       "title",
       "toc",
       "top",
-      "twitter"
+      "twitter",
+      "visually-hidden"
     ],
     "ids": [
       "TableOfContents",

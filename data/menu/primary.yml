@@ -3,6 +3,8 @@ links:
     url: /les-avantages/
   - title: Fonctionnalités
     url: /les-fonctionnalites/
+  - title: Contact
+    url: /contact/
   - title: Tarifs
     url: /tarifs/
     is_highlighted: true

@@ -48,6 +48,28 @@ blocks:
         text: Un site Web fait pour durer, intemporel.
         icon: clock-history
 
+  - type: informations
+    background: true
+    heading:
+      surtitle: Pour qui ?
+      title: Pour tous les architectes
+    items:
+      - title: Architecte indépendant
+        text: Une présentation claire de vous-même ainsi que vos projets.
+      - title: Architectes associés
+        text: Vos projets et la présentation de votre cabinet ainsi que les différents membres de l’équipe.
+      - title: Cabinet d’architecte international
+        text: Tous vos cabinets et vos équipes, votre actualité, vos projets, en français ou en plusieurs langues.
+
+  - type: cta
+    background: true
+    heading:
+      surtitle: Forfaits et tarifs
+      title: Et un prix adapté à la taille de votre cabinet !
+    cta:
+      url: /tarifs/
+      text: En savoir plus sur les forfaits et tarifs
+
   - type: editorial
     direction: rtl
     surtitle: Orienté métier

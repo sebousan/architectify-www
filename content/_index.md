@@ -56,10 +56,19 @@ blocks:
     items:
       - title: Architecte indépendant
         text: Une présentation claire de vous-même ainsi que vos projets.
+        image:
+          src: /images/uploads/267.Graduating.svg
+          isLogo: true
       - title: Architectes associés
         text: Vos projets et la présentation de votre cabinet ainsi que les différents membres de l’équipe.
+        image:
+          src: /images/uploads/194.High-Five.svg
+          isLogo: true
       - title: Cabinet d’architecte international
         text: Tous vos cabinets et vos équipes, votre actualité, vos projets, en français ou en plusieurs langues.
+        image:
+          src: /images/uploads/386.Remote-Meeting.svg
+          isLogo: true
 
   - type: cta
     background: true

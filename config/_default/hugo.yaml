@@ -14,5 +14,4 @@ markup:
 pagination:
   pagerSize: 18
 removePathAccents: true
-disableHugoGeneratorInject: true
 timeout: 100000

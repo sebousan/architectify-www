@@ -4,11 +4,11 @@ draft: false
 title: CMS orienté métier
 description: Grâce à son espace administration dédié aux cabinets d’architectes, la mise à jour de contenu est facilité.
 image:
-  src: /images/uploads/123.Website-builder.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116462/123.Website-builder_phc3b0.svg
 hero:
   title: CMS orienté métier
   image:
-    src: /images/uploads/123.Website-builder.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116462/123.Website-builder_phc3b0.svg
   text: Grâce à son espace administration dédié aux cabinets d’architectes, la mise à jour de contenu est facilité.
 ---
 

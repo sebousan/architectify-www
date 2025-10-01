@@ -1,9 +1,5 @@
 fr:
+  languageCode: fr
   languageName: Français
   title: Architectify
   weight: 1
-
-# en:
-#   languageName: English
-#   title: Architectify
-#   weight: 2

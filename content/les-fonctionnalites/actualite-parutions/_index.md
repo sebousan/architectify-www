@@ -3,12 +3,12 @@ isPage: true
 draft: false
 title: Actualité et parutions
 image:
-  src: /images/uploads/144.Paperboy.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116478/144.Paperboy_eaaorx.svg
 hero: 
   title: Actualité et parutions presse
   text: L’actualité de votre cabinet sous la forme d’un blog ou simplement une liste de publications qui renvoit vers les sites web source.
   image:
-    src: /images/uploads/144.Paperboy.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116478/144.Paperboy_eaaorx.svg
 ---
 
 ## Actualité

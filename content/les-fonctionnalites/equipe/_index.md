@@ -4,12 +4,12 @@ draft: false
 title: Présentation de l’équipe
 description: Présentation des architectes ou d’autres personnes…
 image:
-  src: /images/uploads/183.Teaming-Up.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116599/183.Teaming-Up_ucexhi.svg
 hero: 
   title: Présentation de l’équipe
   text: Présentation des architectes ou d’autres personnes…
   image:
-    src: /images/uploads/183.Teaming-Up.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116599/183.Teaming-Up_ucexhi.svg
 ---
 La solution vous permet de créer différent profil de personne.
 

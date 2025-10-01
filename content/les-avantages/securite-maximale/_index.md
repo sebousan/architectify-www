@@ -3,12 +3,12 @@ isPage: true
 draft: false
 title: Sécurité maximale
 image:
-  src: /images/uploads/37.Password.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116279/37.Password_hpkt9h.svg
 hero: 
   title: Sécurité maximale
   text: Les sites web Architectify sont sécurisés, parce que ces sites utilisent la technologie Jamstack, il n’y a donc pas de langage serveur, ni de base de données, donc aucun risque de hacking par la couche applicative.
   image:
-    src: /images/uploads/37.Password.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116279/37.Password_hpkt9h.svg
 ---
 
 ## Qu’est-ce que le précompilé ?

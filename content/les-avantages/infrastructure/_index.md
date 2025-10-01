@@ -4,12 +4,12 @@ draft: false
 title: Infrastructure technique open-source
 description: Voici en détail et en toute transparence, l'infrastructure technique de Architectify.
 image:
-  src: /images/uploads/181.Nodes.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116598/181.Nodes_vgmgrr.svg
 hero: 
   title: Infrastructure technique open-source
   text: Voici en détail et en toute transparence, l'infrastructure technique de Architectify.
   image:
-    src: /images/uploads/181.Nodes.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116598/181.Nodes_vgmgrr.svg
 ---
 
 ## Hugo

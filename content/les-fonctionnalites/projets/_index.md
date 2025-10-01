@@ -3,12 +3,12 @@ isPage: true
 draft: false
 title: Votre portfolio
 image:
-  src: /images/uploads/174.Project.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116550/174.Project_zkpzc1.svg
 hero: 
   title: Votre portfolio
   text: Créez des pages sur vos différents projets (galerie photos, spécificités techniques…).
   image:
-    src: /images/uploads/174.Project.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116550/174.Project_zkpzc1.svg
 ---
 La solution vous permet de créer des pages projet sous la forme d’un portfolio. Ces projets peuvent être accomplagnés de tags et/ou de catégories pour faciliter leurs accès auprès de l’internaute.
 

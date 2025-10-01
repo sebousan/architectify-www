@@ -4,12 +4,12 @@ draft: false
 title: Présentation du cabinet
 description: Ajouter un ou différents lieux et leurs informations de contact.
 image:
-  src: /images/uploads/188.Buildings.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116606/188.Buildings_yqccmw.svg
 hero: 
   title: Présentation du cabinet
   text: Ajouter un ou différents lieux et leurs informations de contact.
   image:
-    src: /images/uploads/188.Buildings.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116606/188.Buildings_yqccmw.svg
 ---
 La solution vous permet de créer votre cabinet mais aussi d’en créer plusieurs si nécessaire. Vous pourrez ainsi présenter clairement tous les informations nécessaire et les contacts pour vous joindre.
 
@@ -34,7 +34,7 @@ L’adresse postale en détail :
 * Ville
 * Pays
 
-{{< figure src="/images/uploads/admin-address.png" legend="Espace admin : édition d’une adresse" >}}
+{{< figure src="https://res.cloudinary.com/uncinq/image/upload/v1759310737/admin-address_ys1vfr.png" legend="Espace admin : édition d’une adresse" >}}
 
 ### Contact
 Vous pouvez ajouter différents types de contact pour votre cabinet, actuellement les champs de saisis possibles sont :
@@ -45,4 +45,4 @@ Vous pouvez ajouter différents types de contact pour votre cabinet, actuellemen
 * Nom d’utlisateur Twitter
 * Nom d’utlisateur Instagram
 
-{{< figure src="/images/uploads/admin-contact.png" legend="Espace admin : édition des informations de contact" >}}
+{{< figure src="https://res.cloudinary.com/uncinq/image/upload/v1759310747/admin-contact_azyvf7.png" legend="Espace admin : édition des informations de contact" >}}

@@ -2,13 +2,14 @@
 isIndex: true
 title: Accueil
 image:
-  src: /images/uploads/205.OK.svg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
 hero:
   title: Créez le site Web de votre cabinet d’architectes sécurisé et ultra rapide.
   image:
-    src: /images/uploads/205.OK.svg
+    # src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1758116656/306.Architect_c31h7v.svg
   image_2:
-    src: /images/uploads/website.png
+    src: https://res.cloudinary.com/uncinq/image/upload/v1759305747/website_fyqtjp.png
   ctas:
     - url: /les-fonctionnalites/
       text: Découvrir les foncionnalités
@@ -57,17 +58,17 @@ blocks:
       - title: Architecte indépendant
         text: Une présentation claire de vous-même ainsi que vos projets.
         image:
-          src: /images/uploads/267.Graduating.svg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1758116656/306.Architect_c31h7v.svg
           isLogo: true
       - title: Architectes associés
         text: Vos projets et la présentation de votre cabinet ainsi que les différents membres de l’équipe.
         image:
-          src: /images/uploads/194.High-Five.svg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1758116609/194.High-Five_oww259.svg
           isLogo: true
       - title: Cabinet d’architecte international
         text: Tous vos cabinets et vos équipes, votre actualité, vos projets, en français ou en plusieurs langues.
         image:
-          src: /images/uploads/386.Remote-Meeting.svg
+          src: https://res.cloudinary.com/uncinq/image/upload/v1758116887/386.Remote-Meeting_kjfdvr.svg
           isLogo: true
 
   - type: cta
@@ -88,7 +89,7 @@ blocks:
       text: En savoir plus sur les fonctionnalités
       url: /les-fonctionnalites/
     image:
-      src: /images/uploads/147.Multitasking.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116479/147.Multitasking_wqtjvy.svg
 
   - type: editorial
     direction: ltr
@@ -101,7 +102,7 @@ blocks:
       text: En savoir plus sur les avantages
       url: /les-avantages/
     image:
-      src: /images/uploads/111.Business-plan.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116455/111.Business-plan_vozhtx.svg
 
   - type: figure
     background: true
@@ -125,7 +126,7 @@ blocks:
       url: https://demo.architectify.io
       blank: true
     image:
-      src: /images/uploads/160.Movie-Time.svg
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758116487/160.Movie-Time_mzfiqq.svg
 
   - type: cta
     background: true

@@ -1,6 +1,10 @@
 _merge: deep
+
 casestudies:
-    thumbnail:
-      desktop: "291x"
-      mobile: "235x"
+  thumbnail:
+    desktop: "291x"
+    mobile: "235x"
+image:
+  retina:
+    desktop: true
       

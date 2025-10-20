@@ -7,13 +7,13 @@ image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
 hero:
   title: Forfaits et tarifs
-  text: En fonction des besoins et de la taille du cabinet.
+  text: Des formules adaptées à la taille et aux besoins de votre cabinet, avec une tarification claire et transparente.
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
 blocks:
   - type: comparison
     heading:
-      surtitle: Forfaits et tarifs
+      surtitle: Forfaits 
       title: Un site Web de grande qualité à un prix adapté à la taille de votre cabinet
     column: 3
     items:
@@ -26,6 +26,8 @@ blocks:
         arguments:
           - text: Licence Architectify
             icon: patch-check
+          - text: Editeur de contenu dédié
+            icon: pencil-square
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé maximale
@@ -64,6 +66,8 @@ blocks:
         arguments:
           - text: Licence Architectify
             icon: patch-check
+          - text: Editeur de contenu dédié
+            icon: pencil-square
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé maximale
@@ -96,7 +100,7 @@ blocks:
           url: /contact/
           text: Contactez-nous
       - title: Pack International
-        text: Pour plusieurs cabinets de plusieurs collaborateurs.
+        text: Pour plusieurs cabinets.
         offer:
           price: 99
           frequency: /mois
@@ -104,6 +108,8 @@ blocks:
         arguments:
           - text: Licence Architectify
             icon: patch-check
+          - text: Editeur de contenu dédié
+            icon: pencil-square
           - text: Hébergement du site Web
             icon: database-check
           - text: Sécurisé maximale
@@ -137,6 +143,7 @@ blocks:
         cta:
           url: /contact/
           text: Contactez-nous
+        
   - type: informations
     heading:
       surtitle: Options
@@ -146,10 +153,35 @@ blocks:
     items:
       - icon: cloud-arrow-up
         title: Images
-        text: Stockage des images sur CDN pour un rendu plus rapide et moins de limite de poids.
+        text: Hébergement des images sur un CDN garantissant un chargement ultra-rapide et un espace de stockage considérablement étendu.
       - icon: globe
         title: Multilingue
         text: Site Web en plusieurs langues.
+
+  - type: editorial
+    background: true
+    direction: rtl
+    surtitle: Tarifs
+    title: Installation à partir de 1 200 €
+    text: >-
+      En complément de l’abonnement mensuel, des frais d’installation sont nécessaire pour mettre votre site en place dans les meilleures conditions.
+
+      
+      Ce service comprend :
+
+      * L’installation complète du site ;
+      
+      * La mise en place du thème Architectify ;
+      
+      * La personnalisation du CMS selon vos besoins ;
+      
+      * La configuration des DNS.
+    image:
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758117377/541.Meditation-Moment_eu5c1h.svg
+    cta:
+      url: /contact/
+      text: Contactez-nous
+  
   - type: editorial
     background: true
     surtitle: Image de marque

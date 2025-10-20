@@ -4,9 +4,8 @@ title: Accueil
 image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
 hero:
-  title: Créez le site Web de votre cabinet d’architectes sécurisé et ultra rapide.
+  title: Créez le site Web de votre cabinet d’architecture sécurisé et ultra rapide.
   image:
-    # src: https://res.cloudinary.com/uncinq/image/upload/v1758116615/205.OK_zdg2ue.svg
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116656/306.Architect_c31h7v.svg
   image_2:
     src: https://res.cloudinary.com/uncinq/image/upload/v1759305747/website_fyqtjp.png
@@ -65,7 +64,7 @@ blocks:
         image:
           src: https://res.cloudinary.com/uncinq/image/upload/v1758116609/194.High-Five_oww259.svg
           isLogo: true
-      - title: Cabinet d’architecte international
+      - title: Cabinet d’architecture international
         text: Tous vos cabinets et vos équipes, votre actualité, vos projets, en français ou en plusieurs langues.
         image:
           src: https://res.cloudinary.com/uncinq/image/upload/v1758116887/386.Remote-Meeting_kjfdvr.svg

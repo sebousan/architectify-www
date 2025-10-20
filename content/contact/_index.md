@@ -19,7 +19,7 @@ blocks:
     cta_second:
       blank: true
       url: "tel:+33678858604"
-      text: téléphone au 06 78 85 86 04
+      text: téléphone au 06 78 85 86 04
     background: false
     heading:
       title: Simplement par

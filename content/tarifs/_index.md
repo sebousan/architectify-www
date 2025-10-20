@@ -144,6 +144,9 @@ blocks:
       text: Toutes les options sont facturées **10€/mois** HT.
     column: 3
     items:
+      - icon: cloud-arrow-up
+        title: Images
+        text: Stockage des images sur CDN pour un rendu plus rapide et moins de limite de poids.
       - icon: globe
         title: Multilingue
         text: Site Web en plusieurs langues.

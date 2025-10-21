@@ -162,7 +162,7 @@ blocks:
     background: true
     direction: rtl
     surtitle: Tarifs
-    title: Installation à partir de 1 200 €
+    title: Installation à partir de 1 800 €
     text: >-
       En complément de l’abonnement mensuel, des frais d’installation sont nécessaire pour mettre votre site en place dans les meilleures conditions.
 
@@ -172,6 +172,8 @@ blocks:
       * L’installation complète du site ;
       
       * La mise en place du thème Architectify ;
+
+      * Ajout du logo, couleurs et typographies du cabinet ;
       
       * La personnalisation du CMS selon vos besoins ;
       

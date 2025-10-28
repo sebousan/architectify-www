@@ -1,12 +1,12 @@
 ---
 isPage: true
 draft: false
-title: Forfaits et tarifs
+title: Tarifs et forfaits
 description: En fonction des besoins et de la taille du cabinet.
 image:
   src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
 hero:
-  title: Forfaits et tarifs
+  title: Tarifs et forfaits
   text: Des formules adaptées à la taille et aux besoins de votre cabinet, avec une tarification claire et transparente.
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg

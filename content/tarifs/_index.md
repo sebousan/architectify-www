@@ -11,10 +11,34 @@ hero:
   image:
     src: https://res.cloudinary.com/uncinq/image/upload/v1758116894/398.Make-It-Rain_cad0hn.svg
 blocks:
+
+  - type: editorial
+    direction: rtl
+    surtitle: Tarifs
+    title: Installation à partir de 1 800 €
+    text: >-
+      En complément de l’abonnement mensuel, des frais d’installation sont nécessaire pour mettre votre site en place dans les meilleures conditions.
+
+      
+      Ce service comprend :
+
+      * L’installation complète du site ;
+      
+      * La mise en place du thème Architectify ;
+
+      * Ajout du logo, couleurs et typographies du cabinet ;
+      
+      * La personnalisation du CMS selon vos besoins ;
+      
+      * La configuration des DNS.
+    image:
+      src: https://res.cloudinary.com/uncinq/image/upload/v1758117377/541.Meditation-Moment_eu5c1h.svg
+
   - type: comparison
     heading:
       surtitle: Forfaits 
       title: Un site Web de grande qualité à un prix adapté à la taille de votre cabinet
+      text: En complément de l’installation, un abonnement mensuel est requi.
     column: 3
     items:
       - title: Pack Indépendant
@@ -157,32 +181,6 @@ blocks:
       - icon: globe
         title: Multilingue
         text: Site Web en plusieurs langues.
-
-  - type: editorial
-    background: true
-    direction: rtl
-    surtitle: Tarifs
-    title: Installation à partir de 1 800 €
-    text: >-
-      En complément de l’abonnement mensuel, des frais d’installation sont nécessaire pour mettre votre site en place dans les meilleures conditions.
-
-      
-      Ce service comprend :
-
-      * L’installation complète du site ;
-      
-      * La mise en place du thème Architectify ;
-
-      * Ajout du logo, couleurs et typographies du cabinet ;
-      
-      * La personnalisation du CMS selon vos besoins ;
-      
-      * La configuration des DNS.
-    image:
-      src: https://res.cloudinary.com/uncinq/image/upload/v1758117377/541.Meditation-Moment_eu5c1h.svg
-    cta:
-      url: /contact/
-      text: Contactez-nous
   
   - type: editorial
     background: true

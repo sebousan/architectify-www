@@ -30,7 +30,7 @@ blocks:
       
       * La personnalisation du CMS selon vos besoins ;
       
-      * La configuration des DNS.
+      * La configuration du nom de domaine.
     image:
       src: https://res.cloudinary.com/uncinq/image/upload/v1758117377/541.Meditation-Moment_eu5c1h.svg
 

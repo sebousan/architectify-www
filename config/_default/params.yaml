@@ -1,5 +1,6 @@
 _merge: deep
 
+# Images
 casestudies:
   thumbnail:
     desktop: "291x"
@@ -8,3 +9,19 @@ image:
   retina:
     desktop: true
       
+# Javascript
+carousel: false
+bootstrap:
+  modal: false
+map: false
+
+# Brand
+brand:
+  name: Architectify
+  email: architectify@uncinq.dev
+  url: architectify.io
+  cms:
+    decap: https://res.cloudinary.com/uncinq/image/upload/v1759158628/screenshot-architectify-decapcms-home_cki5ci.png
+  your:
+    of: de votre cabinet
+    to: à votre cabinet

@@ -112,7 +112,8 @@ blocks:
       title: Un espace de gestion de contenu orienté métier
       text: Configuration sur mesure.
     figure:
-      src: /images/uploads/admin-home.png
+      src: https://res.cloudinary.com/uncinq/image/upload/v1759158628/screenshot-architectify-decapcms-home_cki5ci.png
+      screenshot: true
       legend: Page d’accueil de l’espace de gestion de contenu, permettant la mise à jour de votre site Web.
 
   - type: editorial

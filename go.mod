@@ -10,8 +10,8 @@ require (
 	github.com/hugolify/hugolify-theme v1.26.20 // indirect
 	github.com/midzer/tobii v3.0.0+incompatible // indirect
 	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
-	github.com/sebousan/hugolify-content-uncinqify v0.0.0-20251112143531-4117e0a97948 // indirect
-	github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20251112153237-bd2b6ab33c46 // indirect
+	github.com/sebousan/hugolify-content-uncinqify v0.0.0-20251113100929-9d6cb03a0958 // indirect
+	github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20251113100248-57b366d6d4ef // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 	github.com/twbs/icons v1.13.1 // indirect
 )

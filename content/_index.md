@@ -47,34 +47,24 @@ blocks:
       - title: Pérenne
         text: Un site Web fait pour durer, intemporel.
         icon: clock-history
-
-  - type: informations
+  
+  - type: selected-pages
+    section: pages
+    layout: grid
     background: true
     heading:
       surtitle: Pour qui ?
-      title: Pour tous les architectes
+      title: Pour tous les cabinets d’architectes
     items:
-      - title: Architecte indépendant
-        text: Une présentation claire de vous-même ainsi que vos projets.
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1758116656/306.Architect_c31h7v.svg
-          isLogo: true
-      - title: Architectes associés
-        text: Vos projets et la présentation de votre cabinet ainsi que les différents membres de l’équipe.
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1758116609/194.High-Five_oww259.svg
-          isLogo: true
-      - title: Cabinet d’architecture international
-        text: Tous vos cabinets et vos équipes, votre actualité, vos projets, en français ou en plusieurs langues.
-        image:
-          src: https://res.cloudinary.com/uncinq/image/upload/v1758116887/386.Remote-Meeting_kjfdvr.svg
-          isLogo: true
+      - Architecte indépendant
+      - architectes-associes
+      - cabinet-architecture-international
 
   - type: cta
     background: true
     heading:
       surtitle: Forfaits et tarifs
-      title: Et un prix adapté à la taille de votre cabinet !
+      title: Et un prix adapté en fonction de vos besoins !
     cta:
       url: /tarifs/
       text: En savoir plus sur les forfaits et tarifs

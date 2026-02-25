@@ -1,4 +1,16 @@
 links:
+  - title: Pour qui ?
+    url: /usages/
+    links:
+      - title: Architecte indépendant
+        text: Création de site internet pour architecte indépendant
+        url: /usages/creation-site-internet-architecte-independant/
+      - title: Architectes associés
+        text: Création de site internet pour un cabinet de plusieurs architectes
+        url: /usages/creation-site-internet-architectes-associes/
+      - title: Cabinet international d'architecture
+        text: Création de site internet pour plusieurs cabinets d'architecture
+        url: /usages/creation-site-internet-cabinet-architecture-international/
   - title: Fonctionnalités
     url: /les-fonctionnalites/
     links:

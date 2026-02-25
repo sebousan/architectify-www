@@ -1,0 +1,42 @@
+# Architectify - Création de sites Web pour architectes
+
+Architectify est une solution de création de sites Web haut de gamme, sécurisés et ultra-rapides, spécifiquement conçue pour les cabinets d'architecture. Architecture statique moderne (Hugo + Decap CMS), hébergée sur Netlify.
+
+> Solution éco-conçue, accessible (RGAA4) et conforme au RGPD (sans cookies traceurs).
+
+## Usages — Pour qui ?
+
+### Architecte indépendant
+Pour un architecte exerçant seul. Le site présente son parcours, son portfolio de projets, ses actualités et parutions, et ses coordonnées. Idéal pour asseoir une présence en ligne sérieuse et attirer de nouveaux clients.
+
+### Architectes associés
+Pour les cabinets avec plusieurs collaborateurs. En plus de la présentation du cabinet, chaque membre de l'équipe (associés, collaborateurs, designers) dispose d'un profil individuel lié à ses projets et son bureau.
+
+### Cabinet international d'architecture
+Pour les structures multi-cabinets avec des équipes réparties sur plusieurs sites. Gestion de plusieurs bureaux, support multilingue en option, visibilité internationale.
+
+## Fonctionnalités Clés
+- **Espace de gestion (CMS)** : Orienté métier (cabinet, équipe, portfolio, actualités, parutions).
+- **SEO & GEO Optimisé** : Référencement local et national pour être trouvé par les clients potentiels.
+- **Sécurité et Performance** : Sites statiques ultra-rapides (100/100 performance), sans failles serveur.
+- **Accessibilité RGAA4** : Inclusion numérique totale, score 100/100.
+- **Eco-conception** : Faible empreinte carbone, sans scripts inutiles.
+- **RGPD** : Privacy by Design, aucun cookie traceur.
+
+## Tarifs
+- **Pack Indépendant** : 39 €/mois HT (architecte seul)
+- **Pack Associés** : 69 €/mois HT (cabinet avec équipe)
+- **Pack International** : 99 €/mois HT (cabinets avec plusieurs bureaux)
+- Installation à partir de 1 800 € HT (configuration complète incluse)
+- Options : images CDN, multilingue (10 €/mois chacune)
+
+## Liens Utiles
+- [Usages](https://architectify.io/usages/)
+- [Fonctionnalités](https://architectify.io/les-fonctionnalites/)
+- [Avantages](https://architectify.io/les-avantages/)
+- [Tarifs](https://architectify.io/tarifs/)
+- [Site de démonstration](https://demo.architectify.io)
+- [Contact](https://architectify.io/contact/)
+
+## Full Detail
+- [llms-full.txt](https://architectify.io/llms-full.txt)

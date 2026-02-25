@@ -1,0 +1,104 @@
+# Architectify - Documentation Complète pour LLM
+
+## Présentation
+Architectify permet aux architectes de disposer d'un site Web professionnel, performant et conforme aux exigences légales (RGPD). La solution repose sur une architecture statique moderne privilégiant la rapidité, la sécurité et l'accessibilité.
+
+## Détails Techniques
+- **Framework** : Hugo (générateur de site statique)
+- **CMS** : Decap CMS (gestion de contenu simplifiée et orientée métier)
+- **Hébergement** : Netlify (CDN mondial, haute disponibilité)
+- **Eco-conception** : Faible émission de carbone, sans scripts inutiles
+- **Accessibilité** : Conformité RGAA4, score 100/100
+- **RGPD** : Privacy by Design, aucun cookie traceur, données hébergées en Europe
+- **Thèmes** : Thème graphique disponible, design sur mesure en option
+
+## Usages — Pour qui ?
+
+### Architecte indépendant
+Pour un architecte exerçant seul qui souhaite une présence en ligne sérieuse et professionnelle.
+
+**Ce que le site permet de présenter :**
+- Le parcours et la biographie de l'architecte
+- Un portfolio de projets (photos, descriptions, détails techniques)
+- Les actualités, articles de fond et parutions presse
+- Les coordonnées et formulaire de contact
+
+**Bénéfices clés :**
+- Attirer de nouveaux clients via le SEO local et national
+- Inspirer confiance avec un site sécurisé et professionnel
+- Gérer le contenu soi-même via le CMS sans compétence technique
+
+### Architectes associés
+Pour les cabinets regroupant plusieurs associés, collaborateurs ou designers.
+
+**Ce que le site permet de présenter :**
+- La présentation et l'histoire du cabinet
+- Les profils individuels de chaque membre de l'équipe (associés, collaborateurs, designers, administratif)
+- Le portfolio collectif et les projets propres à chaque architecte
+- Les actualités et parutions du cabinet
+
+**Bénéfices clés :**
+- Renforcer l'image de marque collective du cabinet
+- Valoriser chaque membre de l'équipe avec un profil lié à ses projets
+- Faciliter la prise de contact avec la bonne personne
+
+### Cabinet international d'architecture
+Pour les structures avec plusieurs bureaux, équipes internationales ou clientèle étrangère.
+
+**Ce que le site permet de présenter :**
+- Plusieurs cabinets/bureaux avec adresses et contacts distincts
+- Des équipes réparties sur plusieurs sites géographiques
+- Une expertise internationale et une présence mondiale
+- Un site multilingue (option)
+
+**Bénéfices clés :**
+- Gérer depuis un seul CMS plusieurs entités géographiques
+- Attirer des clients internationaux grâce au support multilingue
+- Afficher une présence globale tout en restant accessible localement
+
+## Fonctionnalités du CMS
+
+### Présentation du cabinet
+- Création d'un ou plusieurs cabinets (nom, description, image, adresse complète)
+- Contacts : email, téléphone, fax, LinkedIn, Twitter/X
+
+### Présentation de l'équipe
+- Profil individuel par architecte (nom, statut, biographie, photo)
+- Statuts disponibles : Associé, Collaborateur, Designer, Administratif
+- Association à des projets spécifiques et à un bureau
+
+### Portfolio de projets
+- Pages dédiées par projet (maison individuelle, immeuble résidentiel, bâtiment commercial, équipement public, rénovation…)
+- Galerie photos, descriptions, détails techniques et superficie
+- Contenu riche optimisé pour le SEO
+
+### Actualités et parutions
+- Articles de blog avec auteur, catégorie et tags
+- Revue de presse : source, lien, date de publication, personnes associées
+
+## Tarifs
+
+### Frais d'installation
+À partir de **1 800 € HT** — inclut : configuration complète, mise en place du thème, personnalisation (logo, couleurs, typographies), configuration du nom de domaine.
+
+### Abonnements mensuels
+| Pack | Prix/mois | Prix/an | Pour qui |
+|---|---|---|---|
+| Indépendant | 39 € HT | 468 € HT | Architecte exerçant seul |
+| Associés | 69 € HT | 828 € HT | Cabinet avec équipe |
+| International | 99 € HT | 1 188 € HT | Multi-cabinets |
+
+Tous les packs incluent : licence, hébergement, sécurité, responsive design, SEO, accessibilité RGAA4, conformité RGPD, maintenance et support.
+
+### Options (10 € HT/mois chacune)
+- **Images** : hébergement CDN avec stockage étendu
+- **Multilingue** : site en plusieurs langues
+
+### Design sur mesure
+Un thème graphique est inclus. Une identité visuelle sur mesure est possible en option (nécessite un graphiste).
+
+## Valeur Ajoutée SEO & GEO
+Architectify optimise le référencement local (GEO) pour permettre aux cabinets d'être trouvés par leurs clients potentiels dans leur zone géographique, tout en assurant une visibilité nationale sur leurs réalisations et spécialités.
+
+## Site de démonstration
+Un site de démonstration est accessible et testable en ligne : [demo.architectify.io](https://demo.architectify.io)
